@@ -22,7 +22,7 @@ Una vez instalado y activado, el formulario se mostrará en todas las entradas i
 Los usuarios pueden completar el formulario y enviarlo.
 Los administradores pueden ir al panel de administración y hacer clic en la opción "Formulario Bluecell" en el menú lateral para ver todos los datos enviados.
 
-#Análisis externo
+# Análisis externo
 Si deseas analizar el funcionamiento del plugin de forma externa:
 1. Base de datos: Puedes acceder a la base de datos de WordPress y buscar la tabla con el prefijo formulario_bluecell. Aquí se guardarán todos los datos del formulario.
 2. Consola del navegador: Al enviar el formulario, puedes observar las llamadas AJAX en la consola del navegador para asegurarte de que se están realizando correctamente.
